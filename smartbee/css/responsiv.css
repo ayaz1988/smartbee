@@ -1,0 +1,768 @@
+@media screen and (max-width: 1620px){
+    header{
+        padding: 0px 16px;
+    }
+    header nav {
+        display: inline-block;
+        float: left;
+        margin: 45px 0px 45px 265px;
+    }
+    .main_logo{
+        margin-left: 0px;
+    }
+    .header_button_box{
+        margin: 30px 0px;
+    }
+
+}
+
+
+@media screen and (max-width: 1360px){
+    .main_logo{
+        margin-left: 0px;
+    }
+    header nav{
+        margin: 45px 0px 45px 77px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 1160px){
+
+    header {
+        width: 100%;
+        position: fixed;
+        background-color: #FFFFFF;
+        z-index: 10;
+        top: 0;
+        left: 0;
+        padding: 0px 16px;
+        min-height: 110px;
+        display: block;
+    }
+    .main_center_container{
+        padding: 0px 20px;
+    }
+    .section_fifth_container{
+        padding: 0px 20px;
+    }
+
+
+    .mobil_icon{
+        float: right;
+        position: relative;
+        display: block;
+        width: 34px;
+        height: 34px;
+        top: 0;
+        right: 0;
+        margin: 33px 0px;
+        cursor: pointer;
+    }
+
+    .main_logo{
+        margin-left: 0px;
+    }
+
+    header nav{
+        display: none;
+    }
+    .language{
+        display: none;
+    }
+    .overlay_header .language{
+        display: block !important;
+    }
+    .header_button{
+        display: none;
+    }
+    .Our_portfolio_header_text{
+        margin-bottom: 40px;
+        margin-left: 58px;
+    }
+
+
+    .Our_portfolio_websites_img_and_text {
+        max-width: 50%;
+        min-height: auto;
+        margin-bottom: 40px;
+        float: left;
+        padding: 0px 20px;
+    }
+
+    .Our_services_text_header{
+        text-align: center;
+        max-width: 100%;
+    }
+
+    .Our_services_container{
+        padding: 0 16px;
+        justify-content: center;
+    }
+
+    .Our_services_inside_box{
+        max-width: calc(50% - 40px);
+    }
+
+    .container_Contact_and_address{
+        padding: 0px 16px;
+    }
+    .fullname_small_box{
+        width: 100%;
+        margin-right: 0px;
+    }
+    .mail_small_box{
+        width: 100%;
+        margin-top: 40px;
+    }
+    .contact_map_box{
+        display: block;
+    }
+
+    .map_box{
+        max-width: 100%;
+        margin-top: 40px;
+    }
+    .google_map{
+        width: 100%;
+    }
+    .mobil_button_and_links{
+        display: block;
+        position: absolute;
+        width: 100%;
+        min-height: 98px;
+        left: 16px;
+        bottom: 30px;
+    }
+    .section_fifth_text_box h2{
+        text-align: center;
+    }
+    .section_fifth_text_box{
+        max-width: 100%;
+        margin-right: 0px;
+        margin-bottom: 30px;
+    }
+
+    .section_fifth_silder_box{
+        margin: 0 auto;
+        max-width: 726px;
+
+}
+
+
+.container_section_two{
+flex-wrap: nowrap;
+}
+.Our_portfolio_section_container{
+padding: 0px 16px;
+}
+.A_z_section_one_main_center{
+padding: 0px 16px;
+}
+
+
+    .third{
+        padding: 100px 20px;
+    }
+
+
+
+
+}
+
+
+@media screen and (max-width: 980px) {
+	.section_second_box{
+		width:33.33%;
+	}
+
+
+header {
+width: 100%;
+position: fixed;
+background-color: #FFFFFF;
+z-index: 10;
+top: 0;
+left: 0;
+padding: 0px 16px;
+min-height: 110px;
+}
+.main_center_container{
+padding: 0px 20px;
+}
+.section_fifth_container{
+padding: 0px 20px;
+width: 100%;
+}
+
+.mobil_icon{
+float: right;
+position: relative;
+display: block;
+width: 34px;
+height: 34px;
+top: 0;
+right: 0;
+margin: 33px 0px;
+cursor: pointer;
+}
+.main_logo{
+
+display: inline-block;
+
+
+}
+
+header nav{
+display: none;
+}
+.language{
+display: none;
+}
+.overlay_header .language{
+display: block !important;
+}
+.header_button{
+display: none;
+}
+.container_one_text{
+width: 100%;
+}
+
+
+
+.Our_portfolio_websites_img_and_text{
+max-width: 50%;
+min-height: auto;
+
+margin-bottom: 40px;
+float: left;
+padding: 0px 20px;
+}
+
+
+.our_services{
+width: 25%;
+margin-bottom: 20px;
+}
+.section_fourth h2{
+top: 0;
+left: -49px;
+bottom: 0;
+right: 0;
+}
+
+.svg_anime {
+transform: rotate(0deg);
+top: 0;
+left: -52px;
+bottom: 0;
+right: 0;
+    }
+
+.svg_full {
+display: block;
+position: relative;
+width: 100%;
+max-width: 330px;
+height: 100px;
+margin: 0;
+overflow: hidden;
+}
+.section_animate_bee{
+width: auto;
+top: 0;
+}
+.section_animate_bee{
+float: none;
+}
+
+.section_fifth_text_box{
+margin-bottom: 40px;
+}
+.about_person{
+max-width: 100%;
+}
+
+.about_person h2{
+font-size: 55px;
+}
+.about_person p {
+font-size: 45px;
+line-height: 56px;
+}
+
+
+.second{
+padding: 0px 16px;
+}
+.header_text h2{
+font-size: 46px;
+}
+
+.third{
+padding:100px 16px;
+}
+.footer_Contact_and_Menu{
+flex-direction: column;
+}
+
+.upper_container{
+justify-content: center;
+}
+.footer_services{
+flex-direction: column;
+}
+.footer_Menu{
+padding: 45px 0px;
+}
+
+.A_z_section_one_main_center{
+padding: 0px 16px;
+}
+
+.Azerforum_social_network_portrait{
+width: 50%;
+margin-right:0px;
+}
+.Azerforum_social_network_header{
+width: 100%;
+margin-left: 0px;
+margin-right: 0px;
+}
+
+.Azerforum_social_network{
+justify-content: center;
+text-align: center;
+}
+
+.map_box{
+margin-top: 40px;
+}
+.container_section_two{
+flex-wrap: wrap;
+}
+.Our_portfolio_websites_small_box{
+padding: 33px 55px;
+}
+.Our_portfolio_section_container{
+padding: 0px 16px;
+}
+
+
+
+}
+@media screen and (max-width: 781px){
+.under_container_left_box {
+margin-top: 20px;
+margin-bottom: 40px;}
+.download_small_box{
+min-width: 100%;
+}
+.send_small_box {
+min-width: 100%;
+margin-top: 40px;
+}
+
+}
+
+
+
+
+@media screen and (max-width: 680px){
+
+.main_logo{
+display: inline-block;
+
+}
+.svg_anime {
+transform: rotate(0deg);
+top: 0;
+left: -52px;
+bottom: 0;
+right: 0;
+}
+
+.about_person p{
+font-size: 40px;
+line-height: 55px;
+}
+
+
+
+.footer_Contact_and_Menu{
+flex-direction: column;
+}
+
+.upper_container{
+justify-content: center;
+}
+
+.under_container_left_box{
+margin-top: 20px;
+margin-bottom: 40px;
+}
+.Our_portfolio_header_text h3{
+font-size: 50px;
+}
+.Our_portfolio_header_text p{
+font-size: 41px;
+}
+
+
+.Our_portfolio_websites_img_and_text{
+max-width: 100%;
+min-height: auto;
+}
+
+
+
+.Our_services_text_header p{
+font-size: 41px;
+line-height: 61px;
+}
+.Our_services_inside_box{
+max-width: 100%;
+margin-right: 0px;
+}
+.download_small_box{
+min-width:100%;
+}
+.send_small_box{
+min-width:100%;
+margin-top: 40px;
+}
+.container_section_two{
+flex-wrap: wrap;
+}
+
+.section_fourth_information_box{
+width: 50%;
+}
+.section_fourth_information_box:nth-child(2n+1){
+clear: both;
+}
+.section_fourth_information_box:nth-child(3n+1){
+clear: none;
+}
+.Our_portfolio_section_container{
+padding: 0px 16px;
+}
+.Our_portfolio_websites_small_box{
+padding: 63px 85px;
+}
+
+
+}
+
+
+@media screen and (max-width: 480px){
+header{
+padding: 0px 16px;
+}
+.about_person h2{
+font-size: 30px;
+line-height: 36px;
+}
+.about_person p{
+font-size: 30px;
+line-height: 36px;
+}
+
+.main_logo{
+display: inline-block;
+width: 204px;
+height: 60px;
+
+}
+.mobil_icon{
+right: 0;
+}
+
+.main_center_container{
+width: 100%;
+padding: 0px 16px;
+}
+.container_one_text{
+float: none;
+width: 100%;
+margin: 0 auto;
+}
+
+
+.container_one_text h2{
+line-height: 40px;
+font-size: 34px;
+}
+
+.container_one_text p{
+font-size: 30px;
+line-height: 36px;
+}
+.section_animate_bee{
+float: none;
+}
+
+.section_two{
+padding: 80px 0px 30px 0px;
+}
+
+.our_services {
+width: 50%;
+margin-bottom: 30px;
+}
+
+.our_services:nth-child(2n){
+margin-left: 0px;
+}
+
+
+.Our_portfolio_websites_img_and_text{
+max-width: 100%;
+min-height: auto;
+padding: 0;
+}
+.Our_portfolio_websites_inside_box{
+width: 100%;
+height: 100%;
+}
+
+.Our_portfolio_websites_inside_box:before{
+padding-top: 56.12%;
+}
+
+.Our_portfolio_websites_header_text h3{
+font-size: 22px;
+line-height: 26px;
+}
+.Our_portfolio_websites_header_text p{
+font-size: 16px;
+line-height: 19px;
+}
+.section_fourth{
+padding: 100px 0px;
+}
+.section_fourth h2{
+font-size: 34px;
+line-height: 40px;
+}
+
+
+
+
+.section_fourth_container h3{
+font-size: 16px;
+line-height: 26px;
+}
+
+.section_fifth_text_box{
+width: 100%;
+padding-bottom: 40px;
+
+}
+.section_fifth_text_box h2{
+font-size: 34px;
+line-height: 40px;
+text-align: left;
+}
+
+.section_fifth_text_box p{
+font-size: 18px;
+line-height: 28px;
+}
+.slider_column{
+width:calc(50% - 18px);
+}
+
+.section_fifth_logo_small_box{
+width: 126px;
+height: 83px;
+}
+.upper_container{
+flex-direction: column;
+}
+.footer_Contact_and_Menu{
+flex-direction: column;
+width: 100%;
+}
+.footer_services{
+flex-direction: column;
+width: 100%;
+}
+.under_container{
+flex-direction: column-reverse;
+justify-content: flex-start;
+}
+.nav_links {
+display: flex;
+justify-content: start;
+align-items: start;
+flex-direction: column;
+}
+.under_container_left_box{
+margin-bottom: 40px;
+width: 100%;
+}
+.under_container_right_box{
+display: flex;
+justify-content: flex-start;
+align-items: flex-start;
+width: 100%;
+
+}
+.nav_links div:first-child{
+margin-bottom: 20px;
+}
+
+.section_fifth_container{
+width: 100%;
+padding: 0px 16px;
+}
+.Our_portfolio_section_container{
+padding: 0px 16px;
+}
+
+.Our_portfolio_websites {
+margin: 0px auto;
+}
+
+.Our_portfolio_websites_small_box {
+
+max-width: 100%;
+
+min-height: 0px;
+
+padding: 30px 48px;
+
+border-radius: 10px;
+
+width: 100%;
+
+}
+.svg_anime {
+transform: rotate(0deg);
+top: 0;
+left: -48px;
+bottom: 0;
+right: 0;
+}
+.svg_full {
+display: block;
+position: relative;
+width: 100%;
+max-width: 330px;
+height: 100px;
+margin: 0;
+overflow: hidden;
+}
+.section_animate_bee{
+width: auto;
+top: 0;
+margin-top: 60px;
+}
+.section_fifth_silder_box{
+width: 100%;
+padding: 0 30px;
+}
+.section_fifth{
+padding-bottom: 120px;
+padding-top: 100px;
+}
+.footer_Contact{
+width: 100%;
+}
+
+.language{
+display: none;
+}
+.overlay_header .language{
+display: block !important;
+float: left;
+margin-top: 9px;
+}
+.header_text h2{
+font-size: 34px;
+line-height: 40px;
+padding-bottom: 20px;
+}
+
+.header_text p{
+font-size: 18px;
+line-height: 28px;
+}
+.third{
+padding-top: 100px;
+padding-bottom: 100px;
+}
+
+.contact_map_box{
+align-items: start;
+justify-content: start;
+padding: 0px 16px;
+}
+.Our_services_container{
+padding: 0px 16px;
+}
+.Our_services_inside_box{
+margin-right: 0px;
+}
+
+.Our_services_text_header h3{
+font-size: 34px;
+line-height: 40px;
+}
+.Our_services_text_header p{
+font-size: 30px;
+line-height: 36px;
+}
+
+.Our_services_text_header{
+padding: 0px 16px;
+}
+.A_z_section_one_main_center{
+padding: 0px 16px;
+}
+
+.Azerforum_social_network{
+justify-content: center;
+width: 100%;
+min-height: auto;
+}
+.Azerforum_social_network_header {
+width: 100%;
+text-align: center;
+margin:40px 16px;
+
+
+}
+.section_fourth_information_box{
+width: 100%;
+}
+
+.Azerforum_social_network_header h3{
+font-size: 34px;
+line-height: 40px;
+}
+.Azerforum_social_network_portrait{
+margin-bottom: 40px;
+margin-right: 0px;
+width: 50%;
+
+}
+.overlay_header .active-lang{
+float: none;
+}
+    .third_silder_icon_box{
+        width: 73px;
+        height: 73px;
+    }
+
+
+
+}
+
+
+
+
